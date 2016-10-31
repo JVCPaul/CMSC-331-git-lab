@@ -1,2 +1,1 @@
-# CMSC-331-git-lab
-Test for lab
+This is a test doc
